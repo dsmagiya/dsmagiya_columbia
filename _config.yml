@@ -76,7 +76,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "The most important part of doing physics is the knowledge of approximation."
-sidebar-avatar: /~dm3255/img/avatar_desheng_bike.jpg      # use NON-absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /~dm3255/img/avatar_desheng_bike.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
